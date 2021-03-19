@@ -133,10 +133,7 @@
         text-align: center;
     }
 }
-div{
-    background-image: url('https://imgur.dcard.tw/QxwaBfoh.jpg');
-    text-align: center;
-}
+@media (max-width: 540px){
 h1{
     color: rgb(56, 51, 61);
     font-size: 80px;
@@ -175,4 +172,9 @@ p{
     color: rgb(56, 51, 61);;
     text-align: center;
 
+}
+div{
+    background-image: url('https://imgur.dcard.tw/QxwaBfoh.jpg');
+    text-align: center;
+}
 }
