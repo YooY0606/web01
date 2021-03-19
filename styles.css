@@ -133,3 +133,46 @@
         text-align: center;
     }
 }
+div{
+    background-image: url('https://imgur.dcard.tw/QxwaBfoh.jpg');
+    text-align: center;
+}
+h1{
+    color: rgb(56, 51, 61);
+    font-size: 80px;
+    font-family:fantasy;
+}
+h2{
+    color: rgb(56, 51, 61);;
+    font-size: 35px;
+    font-family:Comic Sans MS;
+}
+h3{
+    color: rgb(56, 51, 61);;
+    font-size: 15px;
+    font-family:verdana;
+}
+h4{
+    color: rgb(56, 51, 61);
+    font-size: 15px;
+    font-family:verdana;
+}
+table{
+    border-collapse: collapse;
+    border: 1px solid black;
+}
+th{
+    border:solid #1d1a5e; 
+    color: rgb(56, 51, 61);
+    font-family:verdana;
+}
+td{
+    border:solid #1d1a5e; 
+    color: rgb(56, 51, 61);
+    font-family:verdana;
+}
+p{
+    color: rgb(56, 51, 61);;
+    text-align: center;
+
+}
