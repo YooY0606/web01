@@ -1,0 +1,44 @@
+h1{
+        color: rgb(56, 51, 61);
+        font-size: 80px;
+        font-family:fantasy;
+    }
+    h2{
+        color: rgb(56, 51, 61);;
+        font-size: 35px;
+        font-family:Comic Sans MS;
+    }
+    h3{
+        color: rgb(56, 51, 61);;
+        font-size: 15px;
+        font-family:verdana;
+    }
+    h4{
+        color: rgb(56, 51, 61);
+        font-size: 15px;
+        font-family:verdana;
+    }
+    table{
+        border-collapse: collapse;
+        border: 1px solid black;
+    }
+    th{
+        border:solid #02004b; 
+        color: rgb(56, 51, 61);
+        font-family:verdana;
+    }
+    td{
+        border:solid #02004b; 
+        color: rgb(56, 51, 61);
+        font-family:verdana;
+    }
+    p{
+        color: rgb(56, 51, 61);;
+        text-align: center;
+       
+    }
+    div{
+        background-image: url('https://pic.pimg.tw/higold501/1510786137-2900543935_n.jpg');
+        text-align: center;
+    }
+    
